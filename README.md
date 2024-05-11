@@ -1,7 +1,7 @@
 
 # Perceptual Image Enhancement for Smartphone Real-Time Applications - CV Project
 
-This is a Computer Vision course project where we train the [LPIENet](https://arxiv.org/pdf/2210.13552) model on the [GoPro](https://seungjunnah.github.io/Datasets/gopro.html) dataset.
+This is a Computer Vision course project where we train the [LPIENet](https://arxiv.org/pdf/2210.13552) model on the [GoPro_Large](https://seungjunnah.github.io/Datasets/gopro.html) dataset.
 
 
 ## Authors
