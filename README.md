@@ -15,7 +15,8 @@ This is a Computer Vision course project where we train the [LPIENet](https://ar
 ## Installation
 
 Use the `environment.yaml` file, or follow the these steps:
-*  Create an enviroment with python=3.9 and install PyTorch with cuda using [this link](https://pytorch.org/get-started/locally/).
+*  Create an enviroment with python=3.9 
+*  Install PyTorch with Cuda using [this link](https://pytorch.org/get-started/locally/).
 *  Run the following command to install the appropriate packages:
 
 ```bash
