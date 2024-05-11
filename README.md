@@ -1,2 +1,2 @@
-# Image-Restoration-CV-Project-
+# Image-Restoration-CV-Project
 A repository with our Computer Vision project files.
