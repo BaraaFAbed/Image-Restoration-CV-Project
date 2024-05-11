@@ -1,6 +1,8 @@
 # GoPro Dataset
 
-Download the `GoPro_Large` dataset from [here](https://seungjunnah.github.io/Datasets/gopro.html). Make sure the directory tree looks like this:
+Download the `GoPro_Large` dataset from [here](https://seungjunnah.github.io/Datasets/gopro.html). 
+
+Make sure the directory tree looks like this:
 
 ```bash
 GoPro
