@@ -12,7 +12,7 @@ This is a Computer Vision course project where we train the [LPIENet](https://ar
 - [Yousef Mureb](https://github.com/yousefmureb)
 
 
-## Installation
+## Environment Setup
 
 Use the `environment.yaml` file, or follow the these steps:
 *  Create an enviroment with python=3.9 
